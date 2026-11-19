@@ -1,4 +1,9 @@
 h1{
-    color:navy
-    background-color:maroon
+    color:navy;
+    background-color:lightblue;
+}
+
+h2{
+    color: brown;
+    background-color: darkblue;
 }
